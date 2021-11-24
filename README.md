@@ -14,7 +14,7 @@ No momento iniciei meus estudos de react, padrões de projeto, TDD e clean code.
 </p>
 
 
-[Ir para lista de meus projetos com JavaScript no back-end(NodeJS)](https://github.com/araujo21x/NodeJs)
+[Ir para lista de meus projetos com JavaScript no back-end(Node.js)](https://github.com/araujo21x/NodeJs)
 <br>
 [Ir para lista de meus projetos com JavaScript no front-end](https://github.com/araujo21x/JavaScript_Front-end)
 
