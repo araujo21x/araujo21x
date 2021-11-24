@@ -14,6 +14,7 @@
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="icon-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="icon-express" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="right" alt="araujo-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/29488890?v=4">
 </div>
 
 ##
