@@ -13,10 +13,17 @@ Nos últimos dois anos, além de estudar os conteúdos da faculdade e o conceito
 No momento iniciei meus estudos de react, padrões de projeto, TDD e clean code. Até o momento participei apenas de projetos pessoais e acadêmicos. Atualmente faço parte da equipe que surgiu da parceria do IF baiano, campus senhor do Bonfim e a UFBA (Universidade Federal da Bahia), campus Salvador. Essa parceria tem o intuito de desenvolver um sistema para auxiliar a grávida durante sua gestação. No projeto citado anteriormente fiquei responsável pela criação da API, que além de ser construída utilizando testes, usa as tecnologias TypeScript, nodeJs, Express, postgreSQL. Mas ainda estou à procura da minha primeira experiência no mercado de trabalho.
 </p>
 
+
+[Ir para lista de meus projetos com JavaScript no back-end(NodeJS)](https://github.com/araujo21x/NodeJs)
+<br>
+[Ir para lista de meus projetos com JavaScript no front-end](https://github.com/araujo21x/JavaScript_Front-end])
+
+
 <div align="center">
   <a href="https://github.com/araujo21x">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araujo21x&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujo21x&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araujo21x&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujo21x&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
   
 <div style="display: inline_block"><br>
