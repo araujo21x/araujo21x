@@ -13,11 +13,13 @@ Nos últimos dois anos, além de estudar os conteúdos da faculdade e o conceito
 No momento iniciei meus estudos de react, padrões de projeto, TDD e clean code. Até o momento participei apenas de projetos pessoais e acadêmicos. Atualmente faço parte da equipe que surgiu da parceria do IF baiano, campus senhor do Bonfim e a UFBA (Universidade Federal da Bahia), campus Salvador. Essa parceria tem o intuito de desenvolver um sistema para auxiliar a grávida durante sua gestação. No projeto citado anteriormente fiquei responsável pela criação da API, que além de ser construída utilizando testes, usa as tecnologias TypeScript, nodeJs, Express, postgreSQL. Mas ainda estou à procura da minha primeira experiência no mercado de trabalho.
 </p>
 
-
 [Ir para lista de meus projetos com JavaScript no back-end(Node.js)](https://github.com/araujo21x/NodeJs)
-<br>
+
 [Ir para lista de meus projetos com JavaScript no front-end](https://github.com/araujo21x/JavaScript_Front-end)
 
+[Ir para lista de projetos de cursos que fiz e livros que le](https://github.com/araujo21x/code_of_courses_and_books)
+
+<br>
 
 <div align="center">
   <a href="https://github.com/araujo21x">
