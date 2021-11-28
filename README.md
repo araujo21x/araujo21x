@@ -42,7 +42,8 @@ No momento iniciei meus estudos de react, padrões de projeto, TDD e clean code.
   <img align="center" alt="icon-postgresql" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="icon-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="icon-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"/>
-  <img align="right" alt="araujo-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/29488890?v=4">
+  <img style="border-radius: 50%;" align="right" alt="araujo-pic" height="150" src="https://avatars.githubusercontent.com/u/29488890?v=4">
+ 
 
 </div>
 
