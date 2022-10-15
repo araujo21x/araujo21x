@@ -6,15 +6,15 @@ Sou formado em licenciatura em ciências da computação no Instituto Federal de
 </p>
 
 <p align="justify"> 
-Nos últimos três anos, além de estudar os conteúdos da faculdade e o conceitos básico/intermediário de linux, também estudo a linguagem de programação JavaScript. Utilizando JavaScript já desenvolvi projetos pessoais no front-end e back-end. Sendo os projetos do front-end apenas com JavaScript Vanilla (sem a utilização de framework), HTML5 e CSS3. Já no back-end utilizo o runtime nodeJS na maioria das vezes com o framework express.
+Nos últimos anos, além de estudar os conteúdos da faculdade e o conceitos básico/intermediário de linux, também estudo a linguagem de programação JavaScript. Utilizando JavaScript já desenvolvi projetos pessoais no front-end e back-end. Sendo os projetos do front-end apenas com JavaScript Vanilla (sem a utilização de framework), HTML5 e CSS3. Já no back-end utilizo o runtime nodeJS na maioria das vezes com o framework express.
 </p>
 
 <p align="justify"> 
-No momento estou estudando clean code, clean architecture, docker, TDD, alem de revisar e me aprofundar nos conceito de javaScript e nodeJS. Tambem tenho curiosidade pela lib react e react Native. Durante a faculdade participava de  projetos pessoais e acadêmicos. Atualmente faço parte da equipe que surgiu da parceria do IF baiano, campus senhor do Bonfim e a UFBA (Universidade Federal da Bahia), campus Salvador. Essa parceria tem o intuito de desenvolver um sistema para auxiliar a grávida durante sua gestação. No projeto citado anteriormente fiquei responsável pela criação da API, que além de ser construída utilizando testes, usa as tecnologias TypeScript, nodeJs, Express, postgreSQL. 
+No momento estou estudando Clean Code, Clean Architecture, Docker, TDD, além de revisar e me aprofundar nos conceitos de javaScript e nodeJS. Também tenho curiosidade pela lib React e React Native. Durante a faculdade participava de  projetos pessoais e acadêmicos. Atualmente faço parte da equipe que surgiu da parceria do IF baiano, campus senhor do Bonfim e a UFBA (Universidade Federal da Bahia), campus Salvador. Essa parceria tem o intuito de desenvolver um sistema para auxiliar a grávida durante sua gestação. No projeto citado anteriormente fiquei responsável pela criação da API, que além de ser construída utilizando testes, usa as tecnologias TypeScript, nodeJs, Express, postgreSQL. 
 </p>
 
 <p align="justify"> 
-No final de 2021 encontrei minha primeira oportunidade de trabalho como freelance para uma empresa que tinha um sistema de credito pessoal via cartão de credito. Em janeiro de 2022 conseguir minha primeira oportunidade de trabalho fixa em uma empresa de tecnologi, nela Desenvolvo e dou manutenção em diversas APIs REST de variados tipos de negócio., ambas empresas tinham javascript como linguagem padrão tanto no front-end como no back-end. 
+No final de 2021 encontrei minha primeira oportunidade de trabalho como freelance para uma empresa que tinha um sistema de crédito pessoal via cartão de crédito. Em janeiro de 2022 conseguir minha primeira oportunidade de trabalho fixa em uma empresa de tecnologia, nela Desenvolvo e dou manutenção em diversas APIs REST de variados tipos de negócio, ambas as empresas tinham javascript como linguagem padrão front-end e no back-end. 
 </p>
 
 [Ir para lista de meus projetos com JavaScript no back-end(Node.js)](https://github.com/araujo21x/NodeJs)
