@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <p align="justify"> 
-Sou um desenvolvedor formado em 2022, com sólida experiência em programação adquirida durante minha graduação. Durante esse período, participei ativamente de projetos pessoais e projetos colaborativos com outros desenvolvedores.
+Sou um desenvolvedor formado em 2022, com sólida experiência em programação adquirida durante minha graduação. Durante esse período, participei ativamente de projetos colaborativos com outros desenvolvedores e projetos de pesquisa e extensão da faculdade.
 </p>
 
 <p align="justify"> 
