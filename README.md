@@ -2,19 +2,19 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <p align="justify"> 
-Sou formado em licenciatura em ciências da computação no Instituto Federal de Educação, Ciência e Tecnologia, Campus Senhor do Bonfim.
+Sou um desenvolvedor formado em 2022, com sólida experiência em programação adquirida durante minha graduação. Durante esse período, participei ativamente de projetos pessoais e projetos colaborativos com outros desenvolvedores.
 </p>
 
 <p align="justify"> 
-Nos últimos anos, além de estudar os conteúdos da faculdade e o conceitos básico/intermediário de linux, também estudo a linguagem de programação JavaScript. Utilizando JavaScript já desenvolvi projetos pessoais no front-end e back-end. Sendo os projetos do front-end apenas com JavaScript Vanilla (sem a utilização de framework), HTML5 e CSS3. Já no back-end utilizo o runtime nodeJS na maioria das vezes com o framework express.
+Desde 2019, concentrei meus esforços no ecossistema do JavaScript, com foco especial no desenvolvimento back-end com Node.js. Minha principal ferramenta para criação de APIs é o Express.js, mas também tive experiências com as frameworks Adonis e Nest.js. No front-end, já desenvolvi aplicações utilizando JavaScript vanilla e atualmente estou aprofundando meus conhecimentos no framework React.
 </p>
 
 <p align="justify"> 
-No momento estou estudando Clean Code, Clean Architecture, Docker, TDD, além de revisar e me aprofundar nos conceitos de javaScript e nodeJS. Também tenho curiosidade pela lib React e React Native. Durante a faculdade participava de  projetos pessoais e acadêmicos. Atualmente faço parte da equipe que surgiu da parceria do IF baiano, campus senhor do Bonfim e a UFBA (Universidade Federal da Bahia), campus Salvador. Essa parceria tem o intuito de desenvolver um sistema para auxiliar a grávida durante sua gestação. No projeto citado anteriormente fiquei responsável pela criação da API, que além de ser construída utilizando testes, usa as tecnologias TypeScript, nodeJs, Express, postgreSQL. 
+Em 2021, tive minha primeira experiência profissional, que me proporcionou valiosos aprendizados e abriu portas para minha atual oportunidade de trabalho. Ao longo de minha jornada, tenho demonstrado comprometimento, habilidades de resolução de problemas e capacidade de adaptação a diferentes tecnologias.
 </p>
 
 <p align="justify"> 
-No final de 2021 encontrei minha primeira oportunidade de trabalho como freelance para uma empresa que tinha um sistema de crédito pessoal via cartão de crédito. Em janeiro de 2022 conseguir minha primeira oportunidade de trabalho fixa em uma empresa de tecnologia, nela Desenvolvo e dou manutenção em diversas APIs REST de variados tipos de negócio, ambas as empresas tinham javascript como linguagem padrão front-end e no back-end. 
+Estou constantemente em busca de novos desafios e me mantendo atualizado com as tendências do mercado de desenvolvimento. Tenho interesse especial em aprimorar minhas habilidades em áreas como arquitetura de software e desenvolvimento de APIs escaláveis.
 </p>
 
 [Ir para lista de meus projetos com JavaScript no back-end(Node.js)](https://github.com/araujo21x/NodeJs)
