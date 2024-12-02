@@ -2,19 +2,19 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="300px" width="300px" align="right" alt="Computador iuriCode">
 <p align="justify"> 
-Sou um desenvolvedor formado em 2022, com sólida experiência em programação adquirida durante minha graduação. Durante esse período, participei ativamente de projetos colaborativos com outros desenvolvedores e projetos de pesquisa e extensão da faculdade.
+Sou formado em Ciências da Computação desde 2022 e sempre tive uma paixão por tecnologia. Durante o início da graduação, meu primeiro contato com a linguagem C despertou um profundo interesse pelo universo da programação, o que me levou a explorar cada vez mais esse campo fascinante.
 </p>
 
 <p align="justify"> 
-Desde 2019, concentrei meus esforços no ecossistema do JavaScript, com foco especial no desenvolvimento back-end com Node.js. Minha principal ferramenta para criação de APIs é o Express.js, mas também tive experiências com as frameworks Adonis e Nest.js. No front-end, já desenvolvi aplicações utilizando JavaScript vanilla e atualmente estou aprofundando meus conhecimentos no framework React.
+Desde meados de 2020, iniciei minha carreira como desenvolvedor back-end. Nesse período, adquiri experiência trabalhando com bancos de dados relacionais (SQL) e não relacionais (NoSQL), além de frameworks robustos do Node.js, como Express.js, NestJS e AdonisJS, utilizando o superset TypeScript para desenvolver aplicações eficientes e escaláveis.
 </p>
 
 <p align="justify"> 
-Em 2021, tive minha primeira experiência profissional, que me proporcionou valiosos aprendizados e abriu portas para minha atual oportunidade de trabalho. Ao longo de minha jornada, tenho demonstrado comprometimento, habilidades de resolução de problemas e capacidade de adaptação a diferentes tecnologias.
+Atualmente, estou focado em aprimorar minhas habilidades de comunicação em inglês e expandir meu conhecimento em arquitetura de software, padrões de projeto, infraestrutura e melhores práticas de desenvolvimento. Paralelamente, também mantenho o estudo contínuo no desenvolvimento mobile e front-end com React.
 </p>
 
 <p align="justify"> 
-Estou constantemente em busca de novos desafios e me mantendo atualizado com as tendências do mercado de desenvolvimento. Tenho interesse especial em aprimorar minhas habilidades em áreas como arquitetura de software e desenvolvimento de APIs escaláveis.
+Sou movido pela busca constante de evolução técnica e por contribuir de maneira significativa nos projetos em que estou envolvido, sempre com o objetivo de gerar impacto e criar soluções de qualidade.
 </p>
 
 [Ir para lista de meus projetos com JavaScript no back-end(Node.js)](https://github.com/araujo21x/NodeJs)
